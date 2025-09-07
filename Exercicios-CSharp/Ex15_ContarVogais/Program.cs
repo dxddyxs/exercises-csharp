@@ -17,6 +17,27 @@ TODO: Substitua esta mensagem por comentários/resolução sua quando começar a
 class Program {
     static void Main() {
         // TODO: implemente o exercício aqui.
-        Console.WriteLine("Exercício Contar vogais em uma string criado — edite este arquivo e implemente a lógica solicitada.");
+        string[] letters = { "a", "e", "i", "o", "u" };
+
+        Console.Write("Write a sentence: ");
+        string input = Console.ReadLine();
+        int cont = 0;
+
+        for (int i = 0; i < input.Length; i++)
+        {
+            for (int j = 0; j < letters.Length; j++)
+            {
+                if (input.Substring(i, 1).Contains(letters[j]))
+                {
+                    cont++;
+                }
+                
+                /*OR
+                 if (input[i].ToString() == letters[j])
+                 */
+            }
+        }
+
+        Console.WriteLine($"the setence have {cont}.");
     }
 }
