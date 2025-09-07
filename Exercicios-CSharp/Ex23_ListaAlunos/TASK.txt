@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Lista de objetos: cadastro de alunos
+
+Descrição:
+Crie classe Aluno (Nome, Nota). Leia N alunos, guarde em List<Aluno>, mostre média e maior nota.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Verificador de senhas simples
+
+Descrição:
+Leia senha e verifique regras: >=8 chars, 1 maiúscula, 1 minúscula e 1 dígito. Informe quais regras falharam.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

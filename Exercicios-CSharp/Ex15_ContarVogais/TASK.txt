@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Contar vogais em uma string
+
+Descrição:
+Leia uma frase e conte quantas vogais (a,e,i,o,u) aparecem (ignore maiúsc/minúsc).
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

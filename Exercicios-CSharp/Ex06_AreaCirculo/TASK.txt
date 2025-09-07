@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Área do círculo
+
+Descrição:
+Leia o raio (double) e calcule π * r * r (use Math.PI).
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

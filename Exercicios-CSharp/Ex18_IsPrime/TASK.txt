@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Função IsPrime(n)
+
+Descrição:
+Implemente função que retorna true se n for primo (teste até sqrt(n)).
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

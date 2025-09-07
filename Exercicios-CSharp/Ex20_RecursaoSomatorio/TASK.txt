@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Recursão: somar 1..N
+
+Descrição:
+Implemente a soma 1..N usando recursão (apenas para aprendizado).
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

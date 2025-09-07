@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Somar dígitos recursivamente
+
+Descrição:
+Função que soma os dígitos de um número até resultar em um único dígito (digital root variant).
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

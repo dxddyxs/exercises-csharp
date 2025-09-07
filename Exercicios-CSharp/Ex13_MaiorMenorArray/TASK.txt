@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Maior e menor de um array
+
+Descrição:
+Leia N e N valores; mostre o maior e o menor.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

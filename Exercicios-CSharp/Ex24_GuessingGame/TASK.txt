@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Jogo de adivinhação
+
+Descrição:
+Computador escolhe número (Random 1..100). Usuário tenta adivinhar; diga maior/menor até acertar e conte tentativas.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

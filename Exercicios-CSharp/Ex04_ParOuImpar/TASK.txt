@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Par ou Ímpar
+
+Descrição:
+Leia um número inteiro e diga se é par ou ímpar.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Soma de dois números
+
+Descrição:
+Leia dois números inteiros e mostre a soma.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

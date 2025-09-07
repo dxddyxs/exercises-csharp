@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Inverter número inteiro
+
+Descrição:
+Leia um inteiro positivo e imprima seus dígitos invertidos (ex.: 1234 -> 4321).
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

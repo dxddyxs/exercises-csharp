@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Ordenação simples (Bubble sort)
+
+Descrição:
+Implemente bubble sort para ordenar um array de inteiros e imprima o array ordenado.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.

@@ -1,0 +1,9 @@
+﻿EXERCÍCIO: Fibonacci N-ésimo (iterativo)
+
+Descrição:
+Leia N e mostre o N-ésimo termo (F(0)=0, F(1)=1) usando loop.
+
+Instruções:
+- Implemente a lógica em Program.cs.
+- Não coloque a solução pronta em nenhum arquivo que eu não tenha pedido.
+- Dicas: teste casos limites, trate entrada inválida.
