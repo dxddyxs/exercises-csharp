@@ -17,6 +17,15 @@ TODO: Substitua esta mensagem por comentários/resolução sua quando começar a
 class Program {
     static void Main() {
         // TODO: implemente o exercício aqui.
-        Console.WriteLine("Exercício Recursão: somar 1..N criado — edite este arquivo e implemente a lógica solicitada.");
+
+        Console.WriteLine(recursion(5));
+    }
+
+    public static long recursion(int n)
+    {
+        if (n == 1) { return 1; }
+        if (n == 0) { return 0; }
+
+        return n + recursion(n - 1);
     }
 }

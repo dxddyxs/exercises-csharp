@@ -68,5 +68,13 @@ class Program {
         } while (i <= n);
 
         Console.WriteLine($"{seq}");
+
+        Console.WriteLine(fibonacci(n));
+    }
+
+    public static long fibonacci(long n)
+    {
+        if (n <= 1) { return n; }
+        else { return fibonacci(n - 1) + fibonacci(n - 2); }
     }
 }
