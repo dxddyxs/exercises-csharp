@@ -15,8 +15,21 @@ TODO: Substitua esta mensagem por comentários/resolução sua quando começar a
 */
 
 class Program {
-    static void Main() {
+    static void Main()
+    {
         // TODO: implemente o exercício aqui.
-        Console.WriteLine("Exercício Ordenação simples (Bubble sort) criado — edite este arquivo e implemente a lógica solicitada.");
+        int[] array = { 5, 4, 3, 2, 1 };
+        int temp;
+
+        for (int i = 0; i < array.Length; i++)
+        {
+            for (int j = 0; j < array.Length - i - 1; j++)
+            {
+                temp = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = temp;
+                Console.WriteLine($"pass {i}: {string.Join(", ", array)}");
+            }
+        }
     }
 }
