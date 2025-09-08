@@ -44,7 +44,7 @@ class Program {
             Console.WriteLine("1");
         }
 
-        int prev = 0; // previus
+        int prev = 0; // previous
         int cur = 1; // current
         int i = 2;
 
@@ -53,16 +53,18 @@ class Program {
             int next = prev + cur;
             prev = cur;
             cur = next;
-            i = i + 1;
+            i += 1;
 
             if (seq == "")
             {
                 seq += prev;
                 seq += ", " + cur;
-            } else
+            }
+            else
             {
                 seq += ", " + cur;
             }
+
         } while (i <= n);
 
         Console.WriteLine($"{seq}");
