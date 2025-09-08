@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 
 /*
 EXERCÍCIO: Somar dígitos recursivamente
@@ -17,6 +18,25 @@ TODO: Substitua esta mensagem por comentários/resolução sua quando começar a
 class Program {
     static void Main() {
         // TODO: implemente o exercício aqui.
-        Console.WriteLine("Exercício Somar dígitos recursivamente criado — edite este arquivo e implemente a lógica solicitada.");
+
+        Console.WriteLine(root(942));
+    }
+
+    public static int root(int n)
+    {
+        if (n < 10)
+        {
+            return n;
+        }
+
+        int sum = 0;
+
+        while (n > 0)
+        {
+            sum = sum + (n % 10);
+            n = n / 10;
+        }
+
+        return root(sum);
     }
 }
